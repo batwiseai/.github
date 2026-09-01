@@ -37,10 +37,24 @@ LLM testing, not estimated metrics.
 | **AI Funnel** | Authority → Consideration → Recommendation, weighted by real search volume, to find where the revenue leaks. |
 | **Batwise Agent** | Cross-references every dimension of your data and answers in plain language what changed, why, and what to do next. |
 
+### Built with
+
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
+  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+</p>
+
 ### Built in LATAM
 
 We're a Chilean team building the AEO reference platform for Latin America — accelerated by
 [Emprelatam](https://emprelatam.com).
 
-<sub>Most of our work lives in private repositories. Want to see the platform? →
-<a href="https://batwise.ai/en/demo">Book a demo</a> · <a href="mailto:sebastian@batwise.ai">sebastian@batwise.ai</a></sub>
+> [!TIP]
+> Most of our work lives in private repositories. Want to see the platform in action?
+> **[Book a demo](https://batwise.ai/en/demo)** or write to [sebastian@batwise.ai](mailto:sebastian@batwise.ai).
