@@ -22,25 +22,31 @@ Your customers already ask ChatGPT what to buy. If your brand isn't in the answe
 competitor is. **Batwise measures and grows how AI engines recommend your brand** — with real
 LLM testing, not estimated metrics.
 
-### Engines we track
+### Engines we monitor
 
-`ChatGPT` · `Claude` · `Gemini` · `Perplexity` · `Grok` · `Google AI Overviews` · `AI Mode` · `Copilot` · `Meta AI` · `DeepSeek`
+`ChatGPT` · `Claude` · `Gemini` · `Perplexity` · `Grok` · `Google AI Overviews`
+
+We add new platforms as they gain market share — and the optimization work already targets
+`AI Mode`, `Copilot`, `Meta AI` and `DeepSeek`.
 
 ### What the platform does
 
 | | |
 |---|---|
 | **Category Monitor** | Visibility, position, sentiment and citations scored **per business category** — your brand doesn't compete the same in every one. |
-| **AI Audit** | Full technical diagnostic of what stops models from reading and citing your site: schema, structured data, crawlability, Web Vitals, authority. |
-| **Source Analysis** | Separates **citations** (inline links that drive traffic) from **sources** (content the model consulted). Surfaces the source gaps where competitors are cited and you aren't. |
-| **Competitive Intel** | Where rivals beat you, engine by engine and query by query — and how fast they're growing. |
-| **AI Funnel** | Authority → Consideration → Recommendation, weighted by real search volume, to find where the revenue leaks. |
-| **Batwise Agent** | Cross-references every dimension of your data and answers in plain language what changed, why, and what to do next. |
+| **AI Audit** | A complete audit of everything that affects how AI models see your site: schema and structured data, crawlability, Core Web Vitals, authority. |
+| **Source Analysis** | Separates **Citations** (inline links driving real traffic) from **Sources** (content AI consulted but didn't link), and surfaces the source gaps where competitors are cited and you aren't. |
+| **Competitive Intel** | Which model, category and query they beat you in — and how fast they're growing. |
+| **Batwise Funnel** | Authority → Consideration → Recommendation, each stage weighted by real search volume, to detect where you lose revenue. |
+| **Batwise Agent** | Cross-references every dimension of your data — models, categories, sources, competitors, funnel — and answers in plain language what changed, why, and what to do next. |
+
+Updated daily.
 
 ### Built in LATAM
 
-We're a Chilean team building the AEO reference platform for Latin America — accelerated by
-[Emprelatam](https://emprelatam.com).
+We're a Chilean team building AI visibility from Latin America — selected for
+[Start-Up Chile's BIG 12](https://batwise.ai/en/blog/start-up-chile-big-12) generation and
+accelerated by [Emprelatam](https://emprelatam.com).
 
 > [!TIP]
 > Most of our work lives in private repositories. Want to see the platform in action?
