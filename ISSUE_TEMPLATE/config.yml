@@ -1,0 +1,10 @@
+# Default issue chooser for every batwiseai repo that has no ISSUE_TEMPLATE of its own.
+# Blank issues stay enabled: the agent fleet opens issues programmatically (ready-for-agent).
+blank_issues_enabled: true
+contact_links:
+  - name: Linear — team Batwise
+    url: https://linear.app/batwise/team/BT/active
+    about: Product bugs and requests are tracked in Linear (BT-XXXX). Open the card there first; GitHub issues are the technical trail.
+  - name: Security report
+    url: https://github.com/batwiseai/.github/blob/main/SECURITY.md
+    about: Do not open a public issue for a vulnerability. Follow the security policy.
